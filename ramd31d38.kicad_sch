@@ -2088,6 +2088,7 @@
     )
   )
 
+
   (junction (at 86.36 171.45) (diameter 0) (color 0 0 0 0)
     (uuid 04720918-e1cb-4962-852e-261a38ef0da5)
   )
@@ -3300,7 +3301,7 @@
   (symbol (lib_id "Jumper:Jumper_3_Bridged12") (at 35.56 113.03 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1311349b-666e-4ae2-b855-3a93152014dc)
-    (property "Reference" "JP?" (id 0) (at 33.02 111.7599 90)
+    (property "Reference" "JP1" (id 0) (at 33.02 111.7599 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Jumper_3_Bridged12" (id 1) (at 45.72 127 90)

@@ -5,6 +5,7 @@
   (paper "A4")
 
   (title_block
+    (title "Центральный процессор")
     (comment 2 "Евстафьев")
   )
 

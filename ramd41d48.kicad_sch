@@ -505,6 +505,7 @@
     )
   )
 
+
   (junction (at 46.99 134.62) (diameter 0) (color 0 0 0 0)
     (uuid 00594b69-2cde-401a-a5c7-549356aa434e)
   )
@@ -2637,7 +2638,7 @@
   (symbol (lib_id "Jumper:Jumper_2_Open") (at 38.1 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c20c0498-8dab-4985-9c29-f6b86d8791e8)
-    (property "Reference" "JP?" (id 0) (at 38.1 128.27 0))
+    (property "Reference" "JP3" (id 0) (at 38.1 128.27 0))
     (property "Value" "Jumper_2_Open" (id 1) (at 38.1 130.81 0))
     (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (id 2) (at 38.1 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2730,10 +2731,10 @@
   )
 
   (symbol (lib_id "Device:R") (at 38.1 127 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid e6af1e02-08f3-4c9c-8b26-c03466b3e09b)
-    (property "Reference" "R14" (id 0) (at 38.1 120.65 90))
-    (property "Value" "10K" (id 1) (at 38.1 123.19 90))
+    (property "Reference" "R14" (id 0) (at 38.1 124.46 90))
+    (property "Value" "10K" (id 1) (at 38.1 127 90))
     (property "Footprint" "" (id 2) (at 38.1 128.778 90)
       (effects (font (size 1.27 1.27)) hide)
     )
