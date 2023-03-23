@@ -1156,7 +1156,6 @@
     )
   )
 
-
   (junction (at 155.575 36.195) (diameter 0) (color 0 0 0 0)
     (uuid 1d8ac311-e48e-4d3c-9e05-ca3b9a68b150)
   )
@@ -2454,9 +2453,9 @@
   )
 
   (symbol (lib_id "74xx:74LS32") (at 149.86 134.62 0) (unit 3)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 8ef5bb7c-f0f3-4cc8-810d-92c7b6465119)
-    (property "Reference" "U75" (id 0) (at 149.86 125.095 0))
+    (property "Reference" "U75" (id 0) (at 150.495 134.62 0))
     (property "Value" "IN74ALS32N (КР1533ЛЛ1)" (id 1) (at 149.86 127.635 0))
     (property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" (id 2) (at 149.86 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -2615,9 +2614,9 @@
   )
 
   (symbol (lib_id "74xx:74LS32") (at 130.175 132.08 0) (unit 2)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid a970ebe7-da32-4373-863b-e389591afc8c)
-    (property "Reference" "U75" (id 0) (at 130.175 123.19 0))
+    (property "Reference" "U75" (id 0) (at 130.175 132.08 0))
     (property "Value" "IN74ALS32N (КР1533ЛЛ1)" (id 1) (at 130.175 125.73 0))
     (property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket_LongPads" (id 2) (at 130.175 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
