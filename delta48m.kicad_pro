@@ -440,10 +440,6 @@
       "Power"
     ],
     [
-      "25d0f778-2c4c-42e4-adf3-6a8650c395c8",
-      "Unused"
-    ],
-    [
       "f8af5ff9-7e59-42c3-8772-58b22d974813",
       "Logic2"
     ],
@@ -454,6 +450,10 @@
     [
       "65352eb4-688f-4c08-b5e4-ec3cc93bd7c5",
       "Video"
+    ],
+    [
+      "b0522bc4-51ff-4c7a-805e-784ede031ae9",
+      "External"
     ]
   ],
   "text_variables": {}

@@ -2,7 +2,7 @@
 
   (uuid 1cd32677-c18b-4d14-b2f2-a4c643c08001)
 
-  (paper "A3")
+  (paper "A4")
 
   (title_block
     (comment 2 "Евстафьев")
@@ -2088,6 +2088,7 @@
     )
   )
 
+
   (junction (at 86.36 171.45) (diameter 0) (color 0 0 0 0)
     (uuid 04720918-e1cb-4962-852e-261a38ef0da5)
   )
@@ -3287,7 +3288,7 @@
     (uuid 0ff0ce25-408d-4b03-9822-33fb29e527f9)
     (property "Reference" "R23" (id 0) (at 101.6 152.4 90))
     (property "Value" "240" (id 1) (at 101.6 154.94 90))
-    (property "Footprint" "" (id 2) (at 101.6 160.528 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 101.6 160.528 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 101.6 158.75 0)
@@ -3342,7 +3343,7 @@
     (property "Value" "47pF" (id 1) (at 86.36 179.7049 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 84.1502 182.245 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm" (id 2) (at 84.1502 182.245 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 83.185 178.435 0)
@@ -3882,7 +3883,7 @@
     (property "Value" "82pF" (id 1) (at 99.695 179.7049 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 97.4852 182.245 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm" (id 2) (at 97.4852 182.245 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 96.52 178.435 0)
@@ -4072,7 +4073,7 @@
     (property "Value" "240" (id 1) (at 88.265 165.0999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 84.582 163.83 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 84.582 163.83 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 86.36 163.83 0)
@@ -4184,7 +4185,7 @@
     (property "Value" "10K" (id 1) (at 37.465 102.8699 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 33.782 101.6 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (id 2) (at 33.782 101.6 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 35.56 101.6 0)
