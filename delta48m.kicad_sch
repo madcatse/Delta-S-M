@@ -829,10 +829,10 @@
       (reference "J2") (unit 1) (value "DIN-7 Video") (footprint "")
     )
     (path "/65352eb4-688f-4c08-b5e4-ec3cc93bd7c5/a26652f8-9897-4b67-b00a-c54957ca431c"
-      (reference "J3") (unit 1) (value "DIN-5 Audio") (footprint "")
+      (reference "J3") (unit 1) (value "DIN-5 Audio") (footprint "w_conn_av:din-5")
     )
     (path "/65352eb4-688f-4c08-b5e4-ec3cc93bd7c5/ab3dbadd-c75f-4acd-b66a-457f22f45a72"
-      (reference "J4") (unit 1) (value "DIN-5 Power") (footprint "")
+      (reference "J4") (unit 1) (value "DIN-5 Power") (footprint "w_conn_av:din-5")
     )
     (path "/b0522bc4-51ff-4c7a-805e-784ede031ae9/8f315501-947d-4f2c-83ca-ecfdac2c1109"
       (reference "J5") (unit 1) (value "Keyboard Connector") (footprint "Connector_IDC:IDC-Header_2x12_P2.54mm_Vertical")
@@ -856,7 +856,7 @@
       (reference "JP3") (unit 1) (value "Jumper_2_Open") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/65352eb4-688f-4c08-b5e4-ec3cc93bd7c5/4ff3d2ef-10f2-46d3-910b-d3d7f689fb43"
-      (reference "LS1") (unit 1) (value "Speaker") (footprint "")
+      (reference "LS1") (unit 1) (value "Speaker") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
     )
     (path "/65352eb4-688f-4c08-b5e4-ec3cc93bd7c5/28ff482f-1a93-45b9-b3e6-da77c208dceb"
       (reference "Q1") (unit 1) (value "BC547B") (footprint "Package_TO_SOT_THT:TO-92_Inline")
@@ -1030,13 +1030,13 @@
       (reference "R59") (unit 1) (value "10K") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/65352eb4-688f-4c08-b5e4-ec3cc93bd7c5/05fe21a0-7bca-434b-90a5-f634c3136997"
-      (reference "RV42") (unit 1) (value "22K") (footprint "")
+      (reference "RV42") (unit 1) (value "22K") (footprint "Potentiometer_THT:Potentiometer_Bourns_PTV09A-2_Single_Horizontal")
     )
     (path "/65352eb4-688f-4c08-b5e4-ec3cc93bd7c5/37718f15-012d-4a23-8f29-c0dfb28415be"
-      (reference "RV43") (unit 1) (value "22K") (footprint "")
+      (reference "RV43") (unit 1) (value "22K") (footprint "Potentiometer_THT:Potentiometer_Bourns_PTV09A-2_Single_Horizontal")
     )
     (path "/65352eb4-688f-4c08-b5e4-ec3cc93bd7c5/ec53dd31-bcda-49e3-9ac1-6753c5b8c95b"
-      (reference "RV44") (unit 1) (value "22K") (footprint "")
+      (reference "RV44") (unit 1) (value "22K") (footprint "Potentiometer_THT:Potentiometer_Bourns_PTV09A-2_Single_Horizontal")
     )
     (path "/0de50d13-c887-412b-960d-dcd5c10db01d/c2e2f8e0-e7db-455c-838b-8985d1f07bfd"
       (reference "SW1") (unit 1) (value "Reset button") (footprint "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx83-2LFS")
@@ -1512,8 +1512,8 @@
     (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/fba9649d-6a8c-41e3-8fcf-b1b525dacc53"
       (reference "U55") (unit 1) (value "74LS257 (КР1533КП11А)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
     )
-    (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/5a169ef7-9f62-4f20-9c34-ad271c5e64ae"
-      (reference "U56") (unit 1) (value "SN74ALS175N (КР1533ТМ8)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
+    (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/8834b82c-c7b0-4873-b262-6ec118368d81"
+      (reference "U56") (unit 1) (value "SN74ALS175N_U56") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
     )
     (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/bfe125fa-9570-4177-84f1-2a1aba6cf06c"
       (reference "U57") (unit 1) (value "SN74LS295N_(К555ИР16)") (footprint "Package_DIP:DIP-14_W7.62mm_Socket_LongPads")
@@ -1533,8 +1533,8 @@
     (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/be00a6a5-821e-4938-8150-9e0b8948f2eb"
       (reference "U62") (unit 1) (value "74LS257 (КР1533КП11А)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
     )
-    (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/81aef933-da8f-4eed-a74b-fc9e772fe0c2"
-      (reference "U63") (unit 1) (value "SN74ALS175N (КР1533ТМ8)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
+    (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/6e944c7e-a176-4584-8a90-40e07765c688"
+      (reference "U63") (unit 1) (value "SN74ALS175N_U63") (footprint "Package_DIP:DIP-16_W7.62mm_Socket_LongPads")
     )
     (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/55167b8e-3f22-4174-84ab-588b5af3d5be"
       (reference "U64") (unit 1) (value "SN74LS295N_(К555ИР16)") (footprint "Package_DIP:DIP-14_W7.62mm_Socket_LongPads")
@@ -1552,7 +1552,7 @@
       (reference "U68") (unit 1) (value "КР556РТ2") (footprint "Package_DIP:DIP-28_W15.24mm_Socket_LongPads")
     )
     (path "/6b51f4c6-a5ef-4843-a0f3-a02401efef63/59cd6bd9-5981-4bcc-bb04-df56886df4c6"
-      (reference "U69") (unit 1) (value "Z80CPU") (footprint "Package_DIP:DIP-40_W25.4mm_Socket_LongPads")
+      (reference "U69") (unit 1) (value "Z80CPU") (footprint "Package_DIP:DIP-40_W15.24mm_Socket_LongPads")
     )
     (path "/9648d2dd-c41a-4075-97f8-828436d6d430/bfb46d52-3fd6-4758-8966-db4cddf132d6"
       (reference "U70") (unit 1) (value "27C64") (footprint "Package_DIP:DIP-28_W15.24mm_Socket_LongPads")
