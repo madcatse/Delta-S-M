@@ -366,7 +366,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "delta48m.net",
-      "specctra_dsn": "",
+      "specctra_dsn": "delta48m.dsn",
       "step": "",
       "vrml": ""
     },

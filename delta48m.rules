@@ -1,0 +1,132 @@
+
+(rules PCB delta48m
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 9)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.7)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.6)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 200.0)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd-smd))
+  )
+  (padstack "Via[0-1]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
+  )
+  (via 
+    "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-1]_800:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_800:400_um-kicad_default"
+  )
+  (class default
+    "Net-(C1-Pad1)" "Net-(C1-Pad2)" GND "Net-(C3-Pad2)" "Net-(C4-Pad2)" "Net-(C5-Pad2)" "Net-(C6-Pad2)" "Net-(C8-Pad2)"
+    "Net-(C10-Pad1)" "Net-(C10-Pad2)" "Net-(C11-Pad1)" "Net-(C11-Pad2)" "Net-(C12-Pad1)" "Net-(C14-Pad1)" "Net-(C14-Pad2)" +5V
+    "Net-(C21-Pad1)" "Net-(C22-Pad1)" "СБРОСL" "Net-(C32-Pad2)" Right1 JOY4 Left1 JOY3
+    Down1 JOY5 Up1 JOY6 Fire1 JOY7 Right2 Left2
+    Down2 Up2 Fire2 "Net-(D11-Pad1)" YG "Net-(D12-Pad1)" YR "Net-(D13-Pad1)"
+    YB RA15 KBD13 "Net-(D15-Pad1)" KBD16 RA13 RA8 KBD18
+    KBD20 Contact1 RA10 KBD22 KBD24 KBD14 RA14 KBD15
+    KBD17 Contact2 KBD19 KBD21 RA9 KBD23 KBD8 KBD9
+    KBD10 KBD11 KBD12 D0 D1 D2 D3 D4
+    D5 D6 D7 "НПРL" "MAG_IN" AUDIO "MAG_OUT" "unconnected-(J3-Pad5)"
+    "unconnected-(J4-Pad4)" "unconnected-(J4-Pad5)" KBD2 "Net-(J8-Pad1)" "Net-(J8-Pad3)" "Net-(J8-Pad5)" "Net-(JP1-Pad1)" "Net-(JP1-Pad2)"
+    A13 "Net-(JP2-Pad2)" "Net-(JP3-Pad2)" UZVUK SYNCRO "Net-(Q3-Pad3)" "Net-(Q4-Pad2)" GREEN
+    "Net-(Q5-Pad2)" BLUE "Net-(Q6-Pad2)" RED STROBL "Net-(Q7-Pad2)" "Net-(Q8-Pad2)" "Net-(R1-Pad2)"
+    "Net-(R2-Pad1)" BA2 "Net-(R5-Pad2)" "Net-(R6-Pad2)" "Net-(R8-Pad1)" BRASL "Net-(R9-Pad2)" "Net-(R10-Pad1)"
+    MAG "Net-(R13-Pad2)" "ТАКТ" OZUMPN "Net-(R21-Pad1)" RASL "MUX_S" SYNC{slash}VID
+    "Net-(R32-Pad1)" "Net-(R34-Pad1)" "Net-(R35-Pad1)" "Net-(R36-Pad1)" "Net-(R39-Pad1)" "Net-(R45-Pad1)" "ОЖ�?ДL" "ЗАПРШL"
+    "Net-(R51-Pad2)" BUSY "Net-(R53-Pad1)" "ЧТПЗУL" "Net-(R55-Pad2)" "Net-(R57-Pad2)" "unconnected-(U1-Pad1)" "unconnected-(U1-Pad2)"
+    "unconnected-(U1-Pad3)" "Net-(U1-Pad5)" BCASL ZPVDN "Net-(U1-Pad9)" "Net-(U1-Pad10)" "Net-(U1-Pad13)" "Net-(U11-Pad8)"
+    ZPRGAT+ "unconnected-(U2-Pad10)" "unconnected-(U2-Pad11)" "Net-(U13-Pad10)" "Net-(U12-Pad4)" 7MHZ "Net-(U20-Pad3)" ZPRGBD
+    "unconnected-(U3-Pad9)" "Net-(U11-Pad9)" "Net-(U11-Pad10)" BA0 "unconnected-(U4-Pad12)" "unconnected-(U4-Pad13)" "Net-(U18-Pad9)" "unconnected-(U5-Pad2)"
+    BA4 "Net-(U5-Pad5)" BA1 "Net-(U18-Pad2)" "unconnected-(U5-Pad13)" BA5 "Net-(U6-Pad2)" "unconnected-(U6-Pad4)"
+    "unconnected-(U6-Pad5)" "Net-(U15-Pad15)" "Net-(U18-Pad8)" "Net-(U6-Pad10)" "Net-(U6-Pad11)" "unconnected-(U6-Pad12)" "Net-(U6-Pad13)" "Net-(U18-Pad4)"
+    "Net-(U7-Pad4)" "Net-(U7-Pad10)" "Net-(U7-Pad11)" "Net-(U7-Pad12)" "Net-(U10-Pad4)" "Net-(U10-Pad5)" "Net-(U9-Pad3)" KGIL
+    "Net-(U18-Pad12)" KKADRAN "Net-(U10-Pad1)" "Net-(U10-Pad2)" "Net-(U10-Pad3)" "Net-(U10-Pad12)" "unconnected-(U10-Pad8)" "unconnected-(U10-Pad9)"
+    "unconnected-(U10-Pad10)" "Net-(U10-Pad11)" "Net-(U10-Pad13)" "unconnected-(U11-Pad1)" "unconnected-(U11-Pad2)" "unconnected-(U11-Pad3)" "Net-(U11-Pad12)" VIBOZUL
+    "ВУL" A0 "unconnected-(U12-Pad8)" "unconnected-(U12-Pad9)" "unconnected-(U12-Pad10)" "unconnected-(U12-Pad11)" "unconnected-(U12-Pad12)" "unconnected-(U12-Pad13)"
+    "Net-(U13-Pad11)" TAIMS CCML "Net-(U14-Pad3)" BMX "unconnected-(U15-Pad3)" "unconnected-(U15-Pad4)" "unconnected-(U15-Pad5)"
+    "Net-(U15-Pad6)" BA3 UPRMX "Net-(U16-Pad2)" "Net-(U16-Pad3)" BA9 CT9 "Net-(U16-Pad6)"
+    BA8 BA10 CT4 BA11 "unconnected-(U16-Pad14)" BA6 BA7 KSGIN
+    "Net-(U19-Pad2)" "ПРL" "Net-(U19-Pad10)" KRAIN VOZUL "unconnected-(U20-Pad6)" "unconnected-(U20-Pad8)" "Net-(U20-Pad10)"
+    "unconnected-(U21-Pad8)" "unconnected-(U21-Pad9)" "unconnected-(U21-Pad10)" "unconnected-(U21-Pad11)" "unconnected-(U21-Pad12)" "unconnected-(U21-Pad13)" A7 "MUX1_Y1"
+    A8 A1 "MUX1_Y2" "MUX1_Y3" A2 A9 "MUX1_Y4" A3
+    A10 ADR0 ADR1 ADR3 ADR2 A11 A4 "MUX2_Y1"
+    A12 A5 "MUX2_Y2" "MUX2_Y3" A6 "MUX2_Y4" A14 ADR4
+    ADR5 BA12 ADR7 ADR6 "unconnected-(U28-Pad1)" "unconnected-(U28-Pad2)" "unconnected-(U28-Pad3)" "unconnected-(U28-Pad4)"
+    "unconnected-(U28-Pad5)" "unconnected-(U28-Pad6)" "unconnected-(U28-Pad11)" "unconnected-(U28-Pad12)" "unconnected-(U28-Pad13)" A15 "Net-(U29-Pad2)" "Net-(U29-Pad12)"
+    "unconnected-(U29-Pad4)" "unconnected-(U29-Pad5)" "unconnected-(U29-Pad6)" CHTRGL "ЧТL" "Net-(U29-Pad10)" "Net-(U30-Pad4)" "ЗПL"
+    "Net-(U30-Pad8)" ZPRG+ "ОЗУL" "unconnected-(U31-Pad1)" WEL CASL "unconnected-(U32-Pad1)" "unconnected-(U33-Pad1)"
+    "unconnected-(U34-Pad1)" "unconnected-(U35-Pad1)" "unconnected-(U36-Pad1)" "unconnected-(U37-Pad1)" "unconnected-(U38-Pad1)" "Net-(U39-Pad1)" BWEL "Net-(U40-Pad4)"
+    "Net-(U40-Pad6)" "Net-(U40-Pad10)" "unconnected-(U41-Pad1)" BD0 "unconnected-(U42-Pad1)" BD1 "unconnected-(U43-Pad1)" BD2
+    "unconnected-(U44-Pad1)" BD3 "unconnected-(U45-Pad1)" BD4 "unconnected-(U46-Pad1)" BD5 "unconnected-(U47-Pad1)" BD6
+    "unconnected-(U48-Pad1)" BD7 "unconnected-(U49-Pad1)" "unconnected-(U49-Pad2)" "unconnected-(U49-Pad10)" "unconnected-(U49-Pad11)" "Net-(U49-Pad12)" "unconnected-(U50-Pad1)"
+    "unconnected-(U50-Pad2)" "unconnected-(U50-Pad3)" "unconnected-(U50-Pad4)" "unconnected-(U50-Pad5)" "unconnected-(U50-Pad6)" "Net-(U50-Pad8)" "Net-(U50-Pad10)" "unconnected-(U50-Pad11)"
+    "unconnected-(U50-Pad12)" "unconnected-(U50-Pad13)" "Net-(U51-Pad4)" "Net-(U51-Pad9)" "Net-(U51-Pad12)" "Net-(U52-Pad2)" "unconnected-(U52-Pad3)" "unconnected-(U52-Pad6)"
+    "Net-(U52-Pad10)" "unconnected-(U52-Pad11)" "unconnected-(U52-Pad14)" "Net-(U52-Pad15)" "Net-(U53-Pad5)" "Net-(U53-Pad6)" "Net-(U53-Pad10)" "Net-(U54-Pad1)"
+    "Net-(U54-Pad2)" "Net-(U54-Pad15)" "Net-(U54-Pad5)" "Net-(U54-Pad6)" KB3 KB5 KB7 "unconnected-(U56-Pad3)"
+    "unconnected-(U56-Pad6)" "unconnected-(U56-Pad11)" "unconnected-(U56-Pad14)" "unconnected-(U57-Pad1)" "Net-(U57-Pad10)" "Net-(U57-Pad11)" "Net-(U57-Pad12)" "Net-(U57-Pad13)"
+    "Net-(U58-Pad1)" "unconnected-(U58-Pad11)" "unconnected-(U58-Pad12)" "unconnected-(U58-Pad13)" "unconnected-(U59-Pad3)" "unconnected-(U59-Pad5)" "unconnected-(U59-Pad6)" "unconnected-(U59-Pad7)"
+    "unconnected-(U59-Pad10)" "unconnected-(U59-Pad11)" "unconnected-(U59-Pad12)" "unconnected-(U59-Pad13)" "unconnected-(U59-Pad14)" "unconnected-(U59-Pad15)" "Net-(U60-Pad5)" "Net-(U60-Pad6)"
+    "Net-(U60-Pad10)" "Net-(U61-Pad1)" "Net-(U61-Pad2)" "Net-(U61-Pad5)" "Net-(U61-Pad6)" KB1 KB2 KB4
+    KB0 "unconnected-(U63-Pad3)" "unconnected-(U63-Pad6)" "unconnected-(U63-Pad11)" "unconnected-(U63-Pad14)" "unconnected-(U64-Pad1)" "Net-(U64-Pad10)" "Net-(U64-Pad11)"
+    "Net-(U64-Pad12)" "Net-(U64-Pad13)" "unconnected-(U65-Pad11)" "unconnected-(U65-Pad12)" "unconnected-(U65-Pad13)" "unconnected-(U66-Pad2)" "unconnected-(U66-Pad3)" "unconnected-(U66-Pad6)"
+    "unconnected-(U66-Pad7)" "Net-(U66-Pad9)" "unconnected-(U66-Pad10)" "unconnected-(U66-Pad11)" "unconnected-(U66-Pad15)" "Net-(U67-Pad11)" "B32_SNP" "A31_SNP"
+    "B31_SNP" "A30_SNP" "B30_SNP" "A29_SNP" "A19_SNP" "B19_SNP" "unconnected-(U68-Pad1)" "unconnected-(U68-Pad11)"
+    "unconnected-(U68-Pad20)" "unconnected-(U68-Pad21)" "СТОПL" "ПЗШL" M1L "РГНL" "unconnected-(U70-Pad1)" OE0L
+    "unconnected-(U70-Pad27)" "unconnected-(U71-Pad1)" OE1L "unconnected-(U71-Pad27)" "unconnected-(U72-Pad1)" "B22_SNP" "B28_SNP" "A28_SNP"
+    "B29_SNP" "B21_SNP" "unconnected-(U72-Pad20)" "unconnected-(U72-Pad21)" "unconnected-(U72-Pad22)" "Net-(U75-Pad6)"
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    (clearance_class "kicad_default")
+    (via_rule "kicad_default")
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
