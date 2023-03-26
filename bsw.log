@@ -1,0 +1,14 @@
+2023-03-24 22:18:17 24188     [INFO] ****** HyperLynx v2.6 build 14488140 
+2023-03-24 22:18:17 24188     [INFO]        C:\MentorGraphics\HLVX.2.6\SDD_HOME\hyperlynx64\bsw.exe 
+2023-03-24 22:18:24 24188     [INFO] Opening Project C:\Users\madcat\Documents\GitHub\deltasm\DeltaS-M\delta48m.hyp
+2023-03-24 22:18:25 24188     [INFO] Opened Board: delta48m.hyp <C:\Users\madcat\Documents\GitHub\deltasm\DeltaS-M\>
+2023-03-24 22:18:25 24188  [WARNING] Stackup Verifier: A dielectric layer was added near layer B.Cu.
+2023-03-24 22:21:08 24188     [INFO] HyperLynx: Text not found
+2023-03-24 22:22:40 24188     [INFO] Notice: In BoardSim, .EBD models can only be assigned using the .REF or .QPL files
+2023-03-24 22:32:12 24188  [WARNING] Stackup Editor: Invalid thickness value. Layer thickness must be in the range 1 - 10000 um  (0.04 - 393.70 mils).
+2023-03-24 22:32:14 24188  [WARNING] Stackup Editor: Invalid thickness value. Layer thickness must be in the range 1 - 10000 um  (0.04 - 393.70 mils).
+2023-03-24 22:32:23 24188  [WARNING] Stackup Editor: Invalid thickness value. Layer thickness must be in the range 1 - 10000 um  (0.04 - 393.70 mils).
+2023-03-24 22:32:27 24188  [WARNING] Stackup Editor: Invalid thickness value. Layer thickness must be in the range 1 - 10000 um  (0.04 - 393.70 mils).
+2023-03-25 20:49:23 24188     [INFO] Close HyperLynx Session: Design file: delta48m.hyp Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
+2023-03-25 20:49:26 24188     [INFO] Closing Design: delta48m.hyp
+2023-03-25 20:49:26 24188     [INFO] ****** Closing HyperLynx 
