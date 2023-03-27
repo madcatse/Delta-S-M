@@ -12,3 +12,11 @@
 2023-03-25 20:49:23 24188     [INFO] Close HyperLynx Session: Design file: delta48m.hyp Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
 2023-03-25 20:49:26 24188     [INFO] Closing Design: delta48m.hyp
 2023-03-25 20:49:26 24188     [INFO] ****** Closing HyperLynx 
+2023-03-27 21:44:48 13416     [INFO] ****** HyperLynx v2.6 build 14488140 
+2023-03-27 21:44:48 13416     [INFO]        C:\MentorGraphics\HLVX.2.6\SDD_HOME\hyperlynx64\BSW.EXE /dde 
+2023-03-27 21:44:48 13416     [INFO] Opening Project C:\Users\madcat\Documents\GitHub\deltasm\DeltaS-M\delta48m.hyp
+2023-03-27 21:44:48 13416     [INFO] Opened Board: delta48m.hyp <C:\Users\madcat\Documents\GitHub\deltasm\DeltaS-M\>
+2023-03-27 21:53:35 13416  [WARNING] Warning: No probes are enabled. Please enable at least one before simulating.
+2023-03-27 22:02:19 13416     [INFO] Close HyperLynx Session: Design file: delta48m.hyp Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
+2023-03-27 22:02:22 13416     [INFO] Closing Design: delta48m.hyp
+2023-03-27 22:02:22 13416     [INFO] ****** Closing HyperLynx 
