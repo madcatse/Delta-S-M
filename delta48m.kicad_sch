@@ -1273,25 +1273,25 @@
       (reference "U14") (unit 5) (value "SN74ALS86N (КР1533ЛП5)") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
     )
     (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/a74ecc6b-2659-4730-9943-9183ac5ea4d2"
-      (reference "U15") (unit 1) (value "CD4520АN_(К561ИЕ10)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
+      (reference "U15") (unit 1) (value "CD4520АN (К561ИЕ10A)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
     )
     (path "/f4495deb-4b48-4c40-8488-ac0dd7ca5eeb/b0133a44-f19b-4011-af4b-ea0248815623"
-      (reference "U15") (unit 2) (value "CD4520АN_(К561ИЕ10)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
+      (reference "U15") (unit 2) (value "CD4520АN (К561ИЕ10A)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
     )
     (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/6850e9f2-121a-442a-8789-3a30328f7d09"
-      (reference "U15") (unit 3) (value "CD4520АN_(К561ИЕ10)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
+      (reference "U15") (unit 3) (value "CD4520АN (К561ИЕ10A)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
     )
     (path "/f4495deb-4b48-4c40-8488-ac0dd7ca5eeb/c8a5c2b4-89f1-479d-94c5-73c441e093c2"
       (reference "U16") (unit 1) (value "SN74ALS257N_(КР1533КП11А)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
     )
     (path "/f4495deb-4b48-4c40-8488-ac0dd7ca5eeb/5f647ee2-9ab3-4cfc-a083-56a17c02e945"
-      (reference "U17") (unit 1) (value "CD4520АN_(К561ИЕ10)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
+      (reference "U17") (unit 1) (value "CD4520АN (К561ИЕ10A)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
     )
     (path "/f4495deb-4b48-4c40-8488-ac0dd7ca5eeb/e1e4f99a-ecaf-47c9-b498-b89e4a8a72d6"
-      (reference "U17") (unit 2) (value "CD4520АN_(К561ИЕ10)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
+      (reference "U17") (unit 2) (value "CD4520АN (К561ИЕ10A)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
     )
     (path "/f4495deb-4b48-4c40-8488-ac0dd7ca5eeb/10f0d42b-28a1-48ef-a098-94e9e94901d1"
-      (reference "U17") (unit 3) (value "CD4520АN_(К561ИЕ10)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
+      (reference "U17") (unit 3) (value "CD4520АN (К561ИЕ10A)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
     )
     (path "/f4495deb-4b48-4c40-8488-ac0dd7ca5eeb/e798ba68-db90-48f1-8a76-e0830b172175"
       (reference "U18") (unit 1) (value "CD4011 (К561ЛА7)") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
