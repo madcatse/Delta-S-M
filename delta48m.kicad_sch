@@ -1564,7 +1564,7 @@
       (reference "U55") (unit 1) (value "74LS257 (КР1533КП11А)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
     )
     (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/8834b82c-c7b0-4873-b262-6ec118368d81"
-      (reference "U56") (unit 1) (value "SN74ALS175N_U56") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
+      (reference "U56") (unit 1) (value "SN74ALS175N (КР1533ТМ8)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
     )
     (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/bfe125fa-9570-4177-84f1-2a1aba6cf06c"
       (reference "U57") (unit 1) (value "SN74LS295N_(К555ИР16)") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
@@ -1585,7 +1585,7 @@
       (reference "U62") (unit 1) (value "74LS257 (КР1533КП11А)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
     )
     (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/6e944c7e-a176-4584-8a90-40e07765c688"
-      (reference "U63") (unit 1) (value "SN74ALS175N_U63") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
+      (reference "U63") (unit 1) (value "SN74ALS175N (КР1533ТМ8)") (footprint "Package_DIP:DIP-16_W7.62mm_Socket")
     )
     (path "/f8af5ff9-7e59-42c3-8772-58b22d974813/55167b8e-3f22-4174-84ab-588b5af3d5be"
       (reference "U64") (unit 1) (value "SN74LS295N_(К555ИР16)") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
