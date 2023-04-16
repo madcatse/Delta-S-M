@@ -471,7 +471,7 @@
       "idf": "",
       "netlist": "delta48m.net",
       "specctra_dsn": "delta48m.dsn",
-      "step": "",
+      "step": "delta48m.step",
       "vrml": ""
     },
     "page_layout_descr_file": "${KICAD6_TEMPLATE_DIR}/gost_landscape.kicad_wks"
