@@ -1782,6 +1782,11 @@
     (uuid fbc9d2d0-108b-4d3c-bd59-0301162c5d81)
   )
 
+  (text "Select upper or lower part of RU5" (at 27.94 121.92 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 7bfe2237-e3bf-4c42-ba04-54f7f84eded1)
+  )
+
   (global_label "A5" (shape input) (at 55.88 97.79 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 017fe92b-2612-49a7-bc3f-754917941f67)
