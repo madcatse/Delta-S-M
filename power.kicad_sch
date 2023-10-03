@@ -2026,7 +2026,7 @@
     (property "Reference" "U21" (at 114.3 40.6399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "SN74ALS14 (КР1533ТЛ2)" (at 114.3 43.1799 0)
+    (property "Value" "SN74ALS04 (КР1533ЛН1)" (at 114.3 43.1799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket" (at 107.95 41.91 0)
