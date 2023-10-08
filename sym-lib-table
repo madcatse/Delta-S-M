@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Delta_s_m_Lib")(type "KiCad")(uri "${KIPRJMOD}/libs/Delta_s_m_Lib.kicad_sym")(options "")(descr ""))
+)

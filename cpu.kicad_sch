@@ -10,7 +10,7 @@
   )
 
   (lib_symbols
-    (symbol "CPU:Z80CPU" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (symbol "Delta_s_m_Lib:Z80CPU" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at -13.97 35.56 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
@@ -214,7 +214,7 @@
       (property "Datasheet" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "power-flag" (at 0 0 0)
+      (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "Power symbol creates a global label with name \"+5V\"" (at 0 0 0)
@@ -266,7 +266,7 @@
       (property "Datasheet" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "power-flag" (at 0 0 0)
+      (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "ki_description" "Power symbol creates a global label with name \"GND\" , ground" (at 0 0 0)
@@ -741,7 +741,7 @@
     )
   )
 
-  (symbol (lib_id "CPU:Z80CPU") (at 144.145 85.725 0) (unit 1)
+  (symbol (lib_id "Delta_s_m_Lib:Z80CPU") (at 144.145 85.725 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 59cd6bd9-5981-4bcc-bb04-df56886df4c6)
     (property "Reference" "U69" (at 146.1644 46.355 0)
