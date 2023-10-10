@@ -61,4 +61,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "${KIPRJMOD}/100u.stp"
+    (offset (xyz -2.8 -5.2 15.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
