@@ -7113,7 +7113,7 @@
     (property "Value" "4.7µF 15V" (at 67.564 143.51 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" (at 62.865 148.9202 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm" (at 62.865 148.9202 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 66.675 147.955 0)
