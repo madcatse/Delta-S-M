@@ -12,7 +12,7 @@ Welcome to the first release of Gerber files for Delta-S-M Ver.1.0! This reposit
 - [License](#license)
 
 ## Introduction
-Delta-S-M is a versatile microcontroller board designed for various embedded applications. It features a powerful microcontroller, multiple I/O options, and an expandable architecture. This repository provides the Gerber files required for manufacturing the Delta-S-M Ver.1.0 board.
+Основной задачей данного проекта я поставил создание наиболее близкого к оригиналу клона персонального восьмибитного компьютера "Дельта-С", который в свою очередь является клоном ZX Spectrum 48K. Выбор модели был обусловлен давней мечтой об "улучшении" оригинальной машины, которой я обладаю с 1991 года. В процессе работы цель проекта несколько раз корректировалась и вместо точной копии стала некоторой "вариацией" на тему оригинала, с небольшими корректировками.
 
 ## Features
 - High-performance microcontroller
