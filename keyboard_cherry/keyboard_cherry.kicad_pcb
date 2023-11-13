@@ -494,7 +494,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tstamp 179cd5b1-bb4a-4814-9240-f737d559c07a)
-    (at 289.4933 113.2591)
+    (at 289.4933 109.9602)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr board_only exclude_from_pos_files exclude_from_bom)
