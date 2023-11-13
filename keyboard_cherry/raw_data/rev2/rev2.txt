@@ -1,0 +1,6 @@
+["Break","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0",{a:5,w:1.5},"РУС\nЛАТ",{a:7,w:2},"Delete"],
+[{w:1.5},"Edit",{a:4},"Q","W","E","R","T","Y","U","I","O","P",{a:5,w:1.5},"True Video",{w:1.5},"Inverted\n\n\n\n\n\nVideo"],
+[{w:1.75},"Extended\n\n\n\n\n\nMode",{a:4},"A","S","D","F","G","H","J","K","L",{a:7},";","\"",{a:4,w:1.75},"Enter"],
+[{a:5,w:2.25},"Caps\n\n\n\n\n\nShift",{a:4},"Z","X","C","V","B","N","M",{x:2},"↑",{a:5,w:2.25},"Caps\n\n\n\n\n\nShift"],
+[{w:2},"Symbol\nShift",{a:4},"Caps Lock",{a:7},"Graph",{w:6.25},"",{a:4},"←","↓","→",{a:5,w:1.25},"Symbol\nShift"],
+[{rx:0.25,y:3,x:9,a:7},",","."]
