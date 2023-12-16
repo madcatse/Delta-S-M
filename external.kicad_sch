@@ -3958,6 +3958,11 @@
           (reference "#PWR0253") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "#PWR0253") (unit 1)
+        )
+      )
     )
   )
 
@@ -3981,6 +3986,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "R59") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "R59") (unit 1)
         )
       )
@@ -4009,6 +4019,11 @@
           (reference "#PWR0254") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "#PWR0254") (unit 1)
+        )
+      )
     )
   )
 
@@ -4031,6 +4046,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0266") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0266") (unit 1)
         )
       )
@@ -4072,6 +4092,11 @@
           (reference "U73") (unit 5)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U73") (unit 5)
+        )
+      )
     )
   )
 
@@ -4095,6 +4120,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "R57") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "R57") (unit 1)
         )
       )
@@ -4123,6 +4153,11 @@
           (reference "#PWR0252") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "#PWR0252") (unit 1)
+        )
+      )
     )
   )
 
@@ -4148,6 +4183,11 @@
           (reference "#PWR0273") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "#PWR0273") (unit 1)
+        )
+      )
     )
   )
 
@@ -4170,6 +4210,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0256") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0256") (unit 1)
         )
       )
@@ -4211,6 +4256,11 @@
           (reference "U74") (unit 4)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U74") (unit 4)
+        )
+      )
     )
   )
 
@@ -4249,6 +4299,11 @@
           (reference "U74") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U74") (unit 1)
+        )
+      )
     )
   )
 
@@ -4275,6 +4330,11 @@
           (reference "D19") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "D19") (unit 1)
+        )
+      )
     )
   )
 
@@ -4297,6 +4357,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0269") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0269") (unit 1)
         )
       )
@@ -4331,6 +4396,11 @@
           (reference "J6") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "J6") (unit 1)
+        )
+      )
     )
   )
 
@@ -4354,6 +4424,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "R54") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "R54") (unit 1)
         )
       )
@@ -4383,6 +4458,11 @@
           (reference "R52") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "R52") (unit 1)
+        )
+      )
     )
   )
 
@@ -4408,6 +4488,11 @@
           (reference "#PWR0272") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "#PWR0272") (unit 1)
+        )
+      )
     )
   )
 
@@ -4430,6 +4515,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0259") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0259") (unit 1)
         )
       )
@@ -4459,6 +4549,11 @@
           (reference "D14") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "D14") (unit 1)
+        )
+      )
     )
   )
 
@@ -4482,6 +4577,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D5") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D5") (unit 1)
         )
       )
@@ -4511,6 +4611,11 @@
           (reference "D2") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "D2") (unit 1)
+        )
+      )
     )
   )
 
@@ -4534,6 +4639,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D8") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D8") (unit 1)
         )
       )
@@ -4571,6 +4681,11 @@
           (reference "DA1") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "DA1") (unit 1)
+        )
+      )
     )
   )
 
@@ -4596,6 +4711,11 @@
           (reference "#PWR0255") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "#PWR0255") (unit 1)
+        )
+      )
     )
   )
 
@@ -4618,6 +4738,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0264") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0264") (unit 1)
         )
       )
@@ -4661,6 +4786,11 @@
           (reference "U66") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U66") (unit 1)
+        )
+      )
     )
   )
 
@@ -4683,6 +4813,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0268") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0268") (unit 1)
         )
       )
@@ -4738,6 +4873,11 @@
           (reference "U68") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U68") (unit 1)
+        )
+      )
     )
   )
 
@@ -4760,6 +4900,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0263") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0263") (unit 1)
         )
       )
@@ -4791,6 +4936,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "J7") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "J7") (unit 1)
         )
       )
@@ -4846,6 +4996,11 @@
           (reference "U72") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U72") (unit 1)
+        )
+      )
     )
   )
 
@@ -4868,6 +5023,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0262") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0262") (unit 1)
         )
       )
@@ -4894,6 +5054,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D17") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D17") (unit 1)
         )
       )
@@ -4941,6 +5106,11 @@
           (reference "U67") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U67") (unit 1)
+        )
+      )
     )
   )
 
@@ -4964,6 +5134,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D4") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D4") (unit 1)
         )
       )
@@ -4993,6 +5168,11 @@
           (reference "D6") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "D6") (unit 1)
+        )
+      )
     )
   )
 
@@ -5019,6 +5199,11 @@
           (reference "R56") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "R56") (unit 1)
+        )
+      )
     )
   )
 
@@ -5041,6 +5226,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0267") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0267") (unit 1)
         )
       )
@@ -5071,6 +5261,11 @@
           (reference "Q7") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "Q7") (unit 1)
+        )
+      )
     )
   )
 
@@ -5097,6 +5292,11 @@
           (reference "D1") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "D1") (unit 1)
+        )
+      )
     )
   )
 
@@ -5120,6 +5320,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D9") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D9") (unit 1)
         )
       )
@@ -5171,6 +5376,11 @@
           (reference "J5") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "J5") (unit 1)
+        )
+      )
     )
   )
 
@@ -5194,6 +5404,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D18") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D18") (unit 1)
         )
       )
@@ -5223,6 +5438,11 @@
           (reference "D21") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "D21") (unit 1)
+        )
+      )
     )
   )
 
@@ -5245,6 +5465,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0271") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0271") (unit 1)
         )
       )
@@ -5286,6 +5511,11 @@
           (reference "U73") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U73") (unit 1)
+        )
+      )
     )
   )
 
@@ -5309,6 +5539,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D24") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D24") (unit 1)
         )
       )
@@ -5338,6 +5573,11 @@
           (reference "D22") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "D22") (unit 1)
+        )
+      )
     )
   )
 
@@ -5361,6 +5601,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D23") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D23") (unit 1)
         )
       )
@@ -5390,6 +5635,11 @@
           (reference "D7") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "D7") (unit 1)
+        )
+      )
     )
   )
 
@@ -5413,6 +5663,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D29") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D29") (unit 1)
         )
       )
@@ -5454,6 +5709,11 @@
           (reference "U74") (unit 2)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U74") (unit 2)
+        )
+      )
     )
   )
 
@@ -5492,6 +5752,11 @@
           (reference "U73") (unit 2)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U73") (unit 2)
+        )
+      )
     )
   )
 
@@ -5514,6 +5779,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0265") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0265") (unit 1)
         )
       )
@@ -5555,6 +5825,11 @@
           (reference "U73") (unit 3)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U73") (unit 3)
+        )
+      )
     )
   )
 
@@ -5578,6 +5853,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D15") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D15") (unit 1)
         )
       )
@@ -5607,6 +5887,11 @@
           (reference "R58") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "R58") (unit 1)
+        )
+      )
     )
   )
 
@@ -5632,6 +5917,11 @@
           (reference "#PWR0258") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "#PWR0258") (unit 1)
+        )
+      )
     )
   )
 
@@ -5654,6 +5944,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0270") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0270") (unit 1)
         )
       )
@@ -5695,6 +5990,11 @@
           (reference "U73") (unit 4)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U73") (unit 4)
+        )
+      )
     )
   )
 
@@ -5718,6 +6018,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "R51") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "R51") (unit 1)
         )
       )
@@ -5759,6 +6064,11 @@
           (reference "U74") (unit 5)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U74") (unit 5)
+        )
+      )
     )
   )
 
@@ -5785,6 +6095,11 @@
           (reference "D25") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "D25") (unit 1)
+        )
+      )
     )
   )
 
@@ -5807,6 +6122,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0257") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0257") (unit 1)
         )
       )
@@ -5836,6 +6156,11 @@
           (reference "R50") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "R50") (unit 1)
+        )
+      )
     )
   )
 
@@ -5859,6 +6184,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D20") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D20") (unit 1)
         )
       )
@@ -5888,6 +6218,11 @@
           (reference "D16") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "D16") (unit 1)
+        )
+      )
     )
   )
 
@@ -5911,6 +6246,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D10") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D10") (unit 1)
         )
       )
@@ -5952,6 +6292,11 @@
           (reference "U74") (unit 3)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "U74") (unit 3)
+        )
+      )
     )
   )
 
@@ -5978,6 +6323,11 @@
           (reference "R55") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "R55") (unit 1)
+        )
+      )
     )
   )
 
@@ -6000,6 +6350,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "#PWR0261") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "#PWR0261") (unit 1)
         )
       )
@@ -6029,6 +6384,11 @@
           (reference "D26") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "D26") (unit 1)
+        )
+      )
     )
   )
 
@@ -6055,6 +6415,11 @@
           (reference "D28") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "D28") (unit 1)
+        )
+      )
     )
   )
 
@@ -6078,6 +6443,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D27") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D27") (unit 1)
         )
       )
@@ -6108,6 +6478,11 @@
           (reference "Q8") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "Q8") (unit 1)
+        )
+      )
     )
   )
 
@@ -6131,6 +6506,11 @@
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/b0522bc4-51ff-4c7a-805e-784ede031ae9"
+          (reference "D3") (unit 1)
+        )
+      )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
           (reference "D3") (unit 1)
         )
       )
@@ -6159,6 +6539,15 @@
           (reference "#PWR0260") (unit 1)
         )
       )
+      (project "external"
+        (path "/85193df6-d35d-456e-b7a4-64fabf18f664"
+          (reference "#PWR0260") (unit 1)
+        )
+      )
     )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
   )
 )
