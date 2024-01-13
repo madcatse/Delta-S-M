@@ -38,3 +38,12 @@
 2023-12-13 19:46:22 17992     [INFO] Close HyperLynx Session: Design file: delta48m.hyp Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
 2023-12-13 19:46:24 17992     [INFO] Closing Design: delta48m.hyp
 2023-12-13 19:46:26 17992     [INFO] ****** Closing HyperLynx 
+2023-12-30 19:38:47 27176     [INFO] ****** HyperLynx v2.6 build 14488140 
+2023-12-30 19:38:47 27176     [INFO]        C:\MentorGraphics\HLVX.2.6\SDD_HOME\hyperlynx64\BSW.EXE /dde 
+2023-12-30 19:38:47 27176     [INFO] Opening Project C:\Users\madcat\Documents\GitHub\Delta-S-M\delta48m.hyp
+2023-12-30 19:38:48 27176     [INFO] Opened Board: delta48m.hyp <C:\Users\madcat\Documents\GitHub\Delta-S-M\>
+2023-12-30 19:38:54 27176     [INFO] Notice: Please select a net.
+2023-12-30 19:39:12 27176  [WARNING] No driver on selected net. Choose a driver now? - The "No" button was selected
+2023-12-30 19:39:15 27176     [INFO] Close HyperLynx Session: Design file: delta48m.hyp Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
+2023-12-30 19:39:18 27176     [INFO] Closing Design: delta48m.hyp
+2023-12-30 19:39:19 27176     [INFO] ****** Closing HyperLynx 
