@@ -1,18 +1,3 @@
-[POPUPS]
-RestoreSessionPrompt=1
-RestoreSessionChoices=31
-[POWER_INTEGRITY]
-CapAutoGrouping=0
-ConvertLargePadsToAreas_Convert=1
-ConvertLargePadsToAreas_ApplyTo=0
-AutoReferenceLayers=1
-[EXPORT_TO_FFS]
-EXPAND_INTO_EBD=1
-EXPORT_VIA=0
-USE_IC_COMPONENT=0
-PINS_FOR_IC_COMPONENT=5
-MERGE_SHORT_SEGMENTS=0
-MERGE_SHORT_SEGMENTS_LEN=0.000508
 [VER]
 Name=HyperLynx Project File
 Major=1
@@ -21,7 +6,7 @@ Minor=1
 TermWizTol=0
 VICVi=1
 IVCCi=1
-XtF=0
+XtF=1
 XtE=0
 XtV=1.500000e-01
 XtGp=1.270000e-03
@@ -179,10 +164,14 @@ Bsw=0
 [DEVICE_KIT]
 INIFILE=
 [ANTISETUP]
-SHOWANTI=1
+SHOWANTI=0
 FORCEUSER=0
 APAD=2.540000e-04
 ASEG=2.032000e-04
+[POWER_INTEGRITY]
+ConvertLargePadsToAreas_Convert=1
+ConvertLargePadsToAreas_ApplyTo=0
+AutoReferenceLayers=1
 [SI_SIM]
 TraceConsiderDistance=3.810000e-04
 MinTotalCoupledTraceLength=1.270000e-02
@@ -231,7 +220,7 @@ DelayAndSI=1
 Xtalk=0
 GlobalStimulus=1
 OscLow=1
-OscFreq=5.000000e+02
+OscFreq=8.000000e+00
 OscDuty=5.000000e+01
 Corner=1
 SaveWaveforms=1
