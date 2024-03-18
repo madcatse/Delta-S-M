@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "delta")(type "KiCad")(uri "${KIPRJMOD}/libs/delta.pretty")(options "")(descr ""))
   (lib (name "Delta_s_m_lib")(type "KiCad")(uri "${KIPRJMOD}/libs/Delta_s_m_lib.pretty")(options "")(descr ""))
+  (lib (name "Delta_sm_lib")(type "KiCad")(uri "${KIPRJMOD}/libs/Delta_sm_lib.pretty")(options "")(descr ""))
 )
