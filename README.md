@@ -42,9 +42,9 @@ The repository is organized as follows:
 
 ## Cable pinout difference
 
-Be carefull, as there is a very important difference in video cable pinout between v0.1 and v1.0.
+Be carefull, as there is a very important difference in video cable pinout between v0.1, v1.0 and v1.2 and up.
 
-v0.1 and v1.0 boards video pinout:
+**v0.1 and v1.0 boards video pinout:**
 
 - 1 - Sync
 - 2 - Red
@@ -54,15 +54,15 @@ v0.1 and v1.0 boards video pinout:
 - 6 - GND
 - 7 - +5V
 
-v1.2 boards video pinout:
+**v1.2 boards video pinout:**
 
 - 1 - Sync
-- 2 - GND
-- 3 - Red
+**- 2 - GND**
+**- 3 - Red**
 - 4 - Blue
 - 5 - Green
-- 6 - N/C
-- 7 - +5V
+**- 6 - N/C**
+**- 7 - +5V**
 
 V1.2 boards are compatible with original Delta-S and Delta-128 and could be connected with their cables.
 
