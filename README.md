@@ -39,6 +39,34 @@ The repository is organized as follows:
 - /BOM: Includes the bill of materials (BOM) listing all components required for assembly.
 - /Documentation: Provides additional documentation, schematics, and datasheets related to Delta-S-M Ver.1.0.
 
+## Cable pinout difference
+
+Be carefull, as there is a very important difference in video cable pinout between v0.1 and v1.0.
+
+v0.1 and v1.0 boards video pinout:
+
+1 - Sync
+2 - Red
+3 - N/C
+4 - Blue
+5 - Green
+6 - GND
+7 - +5V
+
+v1.2 boards video pinout:
+
+1 - Sync
+2 - GND
+3 - Red
+4 - Blue
+5 - Green
+6 - N/C
+7 - +5V
+
+V1.2 boards are compatible with original Delta-S and Delta-128 and could be connecteв with their cables.
+
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the Delta-S-M Ver.1.0 Gerber files as per the terms of the license.
 
@@ -46,6 +74,6 @@ For more details, refer to the [LICENSE](LICENSE) file.
 
 ---
 
-We hope you find this release of the Delta-S-M Ver.1.0 Gerber files useful! If you have any questions or feedback, please don't hesitate to reach out. Happy manufacturing!
+
 
 ![Delta-S-M Ver.1.0](https://example.com/board.png)
