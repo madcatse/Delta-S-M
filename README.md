@@ -9,6 +9,7 @@ Welcome to the first release of Gerber files for Delta-S-M Ver.1.0! This reposit
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
+- [Cable pinout difference](#cable-pinout-difference)
 - [License](#license)
 
 ## Introduction
