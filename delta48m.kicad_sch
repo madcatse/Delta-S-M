@@ -15,15 +15,15 @@
   )
 
 
-  (sheet (at 133.985 29.845) (size 39.37 51.435) (fields_autoplaced)
+  (sheet (at 53.975 210.82) (size 39.37 51.435) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 0de50d13-c887-412b-960d-dcd5c10db01d)
-    (property "Sheetname" "SNP" (at 133.985 29.1334 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
+    (property "Sheetname" "SNP" (at 53.975 209.2434 0)
+      (effects (font (size 3 3)) (justify left bottom))
     )
-    (property "Sheetfile" "SNP.kicad_sch" (at 133.985 81.8646 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+    (property "Sheetfile" "SNP.kicad_sch" (at 53.975 263.5316 0)
+      (effects (font (size 3 3)) (justify left top))
     )
     (instances
       (project "delta48m"
@@ -32,15 +32,15 @@
     )
   )
 
-  (sheet (at 33.655 97.79) (size 46.355 38.1) (fields_autoplaced)
+  (sheet (at 173.355 124.46) (size 57.785 50.8) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 65352eb4-688f-4c08-b5e4-ec3cc93bd7c5)
-    (property "Sheetname" "Video" (at 33.655 97.0784 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
+    (property "Sheetname" "Video" (at 173.355 122.8834 0)
+      (effects (font (size 3 3)) (justify left bottom))
     )
-    (property "Sheetfile" "video.kicad_sch" (at 33.655 136.4746 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+    (property "Sheetfile" "video.kicad_sch" (at 173.355 176.5366 0)
+      (effects (font (size 3 3)) (justify left top))
     )
     (instances
       (project "delta48m"
@@ -53,11 +53,11 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 6b51f4c6-a5ef-4843-a0f3-a02401efef63)
-    (property "Sheetname" "CPU" (at 33.02 29.1334 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
+    (property "Sheetname" "CPU" (at 33.02 28.2684 0)
+      (effects (font (size 3 3)) (justify left bottom))
     )
-    (property "Sheetfile" "cpu.kicad_sch" (at 33.02 81.8646 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+    (property "Sheetfile" "cpu.kicad_sch" (at 33.02 82.5566 0)
+      (effects (font (size 3 3)) (justify left top))
     )
     (instances
       (project "delta48m"
@@ -66,15 +66,15 @@
     )
   )
 
-  (sheet (at 241.3 29.21) (size 41.91 51.435) (fields_autoplaced)
+  (sheet (at 278.765 31.115) (size 41.91 51.435) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 891979f4-215b-4055-91ba-63f9301b8c12)
-    (property "Sheetname" "RAM_D41-D48" (at 241.3 28.4984 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
+    (property "Sheetname" "RAM_D41-D48" (at 278.765 29.5384 0)
+      (effects (font (size 3 3)) (justify left bottom))
     )
-    (property "Sheetfile" "ramd41d48.kicad_sch" (at 241.3 81.2296 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+    (property "Sheetfile" "ramd41d48.kicad_sch" (at 278.765 83.8266 0)
+      (effects (font (size 3 3)) (justify left top))
     )
     (instances
       (project "delta48m"
@@ -83,15 +83,15 @@
     )
   )
 
-  (sheet (at 85.09 29.845) (size 38.1 51.435) (fields_autoplaced)
+  (sheet (at 119.38 31.115) (size 38.1 51.435) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 9648d2dd-c41a-4075-97f8-828436d6d430)
-    (property "Sheetname" "ROM" (at 85.09 29.1334 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
+    (property "Sheetname" "ROM" (at 119.38 29.5384 0)
+      (effects (font (size 3 3)) (justify left bottom))
     )
-    (property "Sheetfile" "ROM.kicad_sch" (at 85.09 81.8646 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+    (property "Sheetfile" "ROM.kicad_sch" (at 119.38 83.8266 0)
+      (effects (font (size 3 3)) (justify left top))
     )
     (instances
       (project "delta48m"
@@ -100,15 +100,15 @@
     )
   )
 
-  (sheet (at 90.17 98.425) (size 41.91 36.83) (fields_autoplaced)
+  (sheet (at 248.285 125.095) (size 59.69 48.895) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid b0522bc4-51ff-4c7a-805e-784ede031ae9)
-    (property "Sheetname" "External" (at 90.17 97.7134 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
+    (property "Sheetname" "External" (at 248.285 123.5184 0)
+      (effects (font (size 3 3)) (justify left bottom))
     )
-    (property "Sheetfile" "external.kicad_sch" (at 90.17 135.8396 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+    (property "Sheetfile" "external.kicad_sch" (at 248.285 175.2666 0)
+      (effects (font (size 3 3)) (justify left top))
     )
     (instances
       (project "delta48m"
@@ -134,15 +134,15 @@
     )
   )
 
-  (sheet (at 194.31 29.845) (size 36.195 50.8) (fields_autoplaced)
+  (sheet (at 223.52 31.115) (size 36.195 50.8)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid d5bea332-8019-4cc9-8b81-8d8d645c36af)
-    (property "Sheetname" "RAM_D31-D38" (at 194.31 29.1334 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
+    (property "Sheetname" "RAM_D31-D38" (at 223.52 30.4034 0)
+      (effects (font (size 3 3)) (justify left bottom))
     )
-    (property "Sheetfile" "ramd31d38.kicad_sch" (at 194.31 81.2296 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+    (property "Sheetfile" "ramd31d38.kicad_sch" (at 205.74 83.185 0)
+      (effects (font (size 3 3)) (justify left top))
     )
     (instances
       (project "delta48m"
@@ -151,15 +151,15 @@
     )
   )
 
-  (sheet (at 342.265 29.21) (size 50.8 51.435) (fields_autoplaced)
+  (sheet (at 52.705 123.825) (size 50.8 51.435) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid f4495deb-4b48-4c40-8488-ac0dd7ca5eeb)
-    (property "Sheetname" "Logic" (at 342.265 28.4984 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
+    (property "Sheetname" "Logic" (at 52.705 122.2484 0)
+      (effects (font (size 3 3)) (justify left bottom))
     )
-    (property "Sheetfile" "logic.kicad_sch" (at 342.265 81.2296 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+    (property "Sheetfile" "logic.kicad_sch" (at 52.705 176.5366 0)
+      (effects (font (size 3 3)) (justify left top))
     )
     (instances
       (project "delta48m"
@@ -168,15 +168,15 @@
     )
   )
 
-  (sheet (at 290.195 29.21) (size 48.895 51.435) (fields_autoplaced)
+  (sheet (at 111.125 123.825) (size 48.895 51.435) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid f8af5ff9-7e59-42c3-8772-58b22d974813)
-    (property "Sheetname" "Logic2" (at 290.195 28.4984 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
+    (property "Sheetname" "Logic2" (at 111.125 122.2484 0)
+      (effects (font (size 3 3)) (justify left bottom))
     )
-    (property "Sheetfile" "logic2.kicad_sch" (at 290.195 81.2296 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+    (property "Sheetfile" "logic2.kicad_sch" (at 111.125 176.5366 0)
+      (effects (font (size 3 3)) (justify left top))
     )
     (instances
       (project "delta48m"

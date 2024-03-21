@@ -2097,8 +2097,8 @@
     (property "Datasheet" "~" (at 90.805 64.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 1d740b95-5762-4eda-81f2-4fb64335bc95))
     (pin "1" (uuid 171c7a4d-68d0-4494-bdab-fa66f1e631ca))
+    (pin "2" (uuid 1d740b95-5762-4eda-81f2-4fb64335bc95))
     (instances
       (project "delta48m"
         (path "/31325de8-16cf-4c6f-92cf-6f5a8aaa6830/9648d2dd-c41a-4075-97f8-828436d6d430"
