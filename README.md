@@ -57,12 +57,12 @@ Be carefull, as there is a very important difference in video cable pinout betwe
 **v1.2 boards video pinout:**
 
 - 1 - Sync
-- **- 2 - GND**
-- **- 3 - Red**
+- **2 - GND**
+- **3 - Red**
 - 4 - Blue
 - 5 - Green
-- **- 6 - N/C**
-- **- 7 - +5V**
+- **6 - N/C**
+- **7 - +5V**
 
 V1.2 boards are compatible with original Delta-S and Delta-128 and could be connected with their cables.
 
