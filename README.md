@@ -10,6 +10,7 @@ Welcome to the first release of Gerber files for Delta-S-M Ver.1.0! This reposit
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
 - [Cable pinout difference](#cable-pinout-difference)
+- [Making SCART cable](#making-scart-cable)
 - [License](#license)
 
 ## Introduction
@@ -57,14 +58,27 @@ Be carefull, as there is a very important difference in video cable pinout betwe
 **v1.2 boards video pinout:**
 
 - 1 - Sync
-- **2 - GND**
-- **3 - Red**
-- 4 - Blue
-- 5 - Green
-- **6 - N/C**
-- **7 - +5V**
+- 2 - GND
+- 3 - Red
+- 4 - Green
+- 5 - Blue
+- 6 - Audio
+- 7 - +5V
 
 V1.2 boards are compatible with original Delta-S and Delta-128 and could be connected with their cables.
+
+## Making SCART cable
+The best video quality could be achived with SCART cable with RGB mode. Delta S-M is capable of outputting native RGB signal and uses a SCART cable to connect to RGB-capable TVs. The picture below illustrates pinout of both SCART plug and DIN-7 plug.
+
+SCART Pinout
+
+15 - Red
+11 - Green
+7 - Blue
+20 - Sync
+16 - ADD 180 Ohm resistor between computer and SCART plug and connect it to pin 16 to enable switching to correct RGB mode. Direct +5V could DAMAGE YOUR TV!
+5, 9, 13, 17 and 21 (metal case) - Ground
+
 
 
 
