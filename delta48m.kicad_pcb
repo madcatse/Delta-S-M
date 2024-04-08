@@ -1334,7 +1334,7 @@
 
   (footprint "Delta_sm_lib:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tstamp 08b61605-bab9-4312-81fa-076bfc9f6f09)
-    (at 245.319 90.6462 90)
+    (at 245.319 90.6208 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "video.kicad_sch")
@@ -19594,7 +19594,7 @@
 
   (footprint "Delta_sm_lib:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (layer "F.Cu")
     (tstamp cb665aaf-dcec-4e82-b2be-1fd7e8507f68)
-    (at 248.5067 90.6462 90)
+    (at 248.4686 90.6208 90)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (property "Sheetfile" "video.kicad_sch")
@@ -23697,7 +23697,7 @@
   (gr_text "4164 (КР565РУ5Д1)" (at 180.217 186.97) (layer "B.SilkS") (tstamp bc307659-a77c-48a2-9784-aa68d786e1ad)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "БПК {dblquote}Дельта-С{dblquote}\nRecreation Project\nVersion 1.2\nBoard Design by MadCat, 2023\nhttps://github.com/madcatse/Delta-S-M\nt.me/zx_delta_s\nhttps://www.youtube.com/@MadCatSE" (at 293.0964 89.7572) (layer "B.SilkS") (tstamp cac4f1b1-eda5-40cf-80f7-05b84f00875b)
+  (gr_text "БПК {dblquote}Дельта-С{dblquote}\nRecreation Project\nVersion 1.2\nBoard Design by MadCat, 2023-24\nhttps://github.com/madcatse/Delta-S-M\nt.me/zx_delta_s\nhttps://www.youtube.com/@MadCatSE" (at 293.0964 89.7572) (layer "B.SilkS") (tstamp cac4f1b1-eda5-40cf-80f7-05b84f00875b)
     (effects (font (size 1.5 1.5) (thickness 0.1875)) (justify mirror))
   )
   (gr_text "4164 (КР565РУ5Д1)" (at 180.217 141.25) (layer "B.SilkS") (tstamp d4fa507f-4f95-495e-9fda-4e1aa1d15c55)
