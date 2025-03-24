@@ -1,0 +1,8 @@
+2025-03-23 20:37:34 31956     [INFO] ****** HyperLynx v2.6 build 14488140 
+2025-03-23 20:37:34 31956     [INFO]        C:\MentorGraphics\HLVX.2.6\SDD_HOME\hyperlynx64\BSW.EXE /dde 
+2025-03-23 20:37:34 31956     [INFO] Opening Project C:\Users\madcat\Documents\GitHub\Delta-S-M\delta48m.hyp
+2025-03-23 20:37:35 31956  [WARNING] Warning: In file C:\Users\madcat\Documents\GitHub\Delta-S-M\delta48m.bud Syntax error: NET_SIM_PARAMS subrecord missing P keyword at line 371 
+2025-03-23 20:37:37 31956     [INFO] Opened Board: delta48m.hyp <C:\Users\madcat\Documents\GitHub\Delta-S-M\>
+2025-03-23 20:37:41 31956     [INFO] Close HyperLynx Session: Design file: delta48m.hyp Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
+2025-03-23 20:37:44 31956     [INFO] Closing Design: delta48m.hyp
+2025-03-23 20:37:45 31956     [INFO] ****** Closing HyperLynx 
