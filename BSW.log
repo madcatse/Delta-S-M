@@ -6,3 +6,36 @@
 2025-03-23 20:37:41 31956     [INFO] Close HyperLynx Session: Design file: delta48m.hyp Save session edits (Yes/No)?  YES -> save, then close NO  -> close - The "No" button was selected
 2025-03-23 20:37:44 31956     [INFO] Closing Design: delta48m.hyp
 2025-03-23 20:37:45 31956     [INFO] ****** Closing HyperLynx 
+2025-03-25 18:01:44 17812     [INFO] ****** HyperLynx v2.6 build 14488140 
+2025-03-25 18:01:44 17812     [INFO]        C:\MentorGraphics\HLVX.2.6\SDD_HOME\hyperlynx64\bsw.exe 
+2025-03-25 18:02:07 17812     [INFO] Creating New Schematic
+2025-03-25 18:12:48 17812     [INFO] HyperLynx: Сохранить изменения в Untitled.ffs? - The "No" button was selected
+2025-03-25 18:12:49 17812     [INFO] Closing Schematic: Untitled.ffs
+2025-03-25 18:12:55 17812     [INFO] Creating New Schematic
+2025-03-25 18:13:16 17812     [INFO] Generated HyperLynx IC Model Index: C:\MentorGraphics\HLVX.2.6\SDD_HOME\hyperlynx64\Libs\HyperLynxIcModels.csv
+2025-03-25 18:16:35 17812  [WARNING] No driver on selected net. Choose a driver now? - The "No" button was selected
+2025-03-25 18:17:33 17812     [INFO] Can't connect the transmission line to the selected via port: the t-line is on a different layer than the port. The via will be connected to another, appropriate port.
+2025-03-25 18:17:58 17812  [WARNING] HyperLynx: Via can be connected to transmission lines only
+2025-03-25 18:18:57 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:19:09 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:19:43 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:19:51 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:19:55 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:20:12 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:20:15 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:21:49 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:22:32 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:22:54 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:22:57 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:31:55 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:32:17 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:32:31 17812  [WARNING] Model Builder: DC failed, trying to use the step limiting in the Newton method
+2025-03-25 18:35:26 17812     [INFO] HyperLynx: Сохранить изменения в Untitled.ffs? - The "No" button was selected
+2025-03-25 18:35:27 17812     [INFO] Closing Schematic: Untitled.ffs
+2025-03-25 18:35:29 17812     [INFO] ****** Closing HyperLynx 
+2025-03-26 18:22:48 4584     [INFO] ****** HyperLynx v2.6 build 14488140 
+2025-03-26 18:22:48 4584     [INFO]        C:\MentorGraphics\HLVX.2.6\SDD_HOME\hyperlynx64\bsw.exe 
+2025-03-26 18:22:51 4584     [INFO] Creating New Schematic
+2025-03-26 18:28:05 4584     [INFO] HyperLynx: Сохранить изменения в Untitled.ffs? - The "No" button was selected
+2025-03-26 18:28:06 4584     [INFO] Closing Schematic: Untitled.ffs
+2025-03-26 18:28:09 4584     [INFO] ****** Closing HyperLynx 

@@ -13853,7 +13853,7 @@
 			)
 		)
 	)
-	(global_label "YB"
+	(global_label "YG"
 		(shape input)
 		(at 370.205 52.705 0)
 		(fields_autoplaced yes)
@@ -14843,7 +14843,7 @@
 			)
 		)
 	)
-	(global_label "YG"
+	(global_label "YB"
 		(shape input)
 		(at 370.205 88.9 0)
 		(fields_autoplaced yes)
